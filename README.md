@@ -1,0 +1,2 @@
+# Truenews
+This is cross platform flutter app which uses newsapi.org to fetch real time news and transform it into  very minimalist user interface enhancing the user experience while providing real time data. This is short project but showcases my skill in developing applications which can fetch data through APIs and also using a web view within the app ,all while maintaining the simplicity of the app . Hope you like it  
